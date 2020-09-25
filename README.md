@@ -7,4 +7,4 @@ Unless otherwise noted, the assets in this repository are licensed under the [Cr
 
 
 # Join the server
-<iframe src="https://discordapp.com/widget?id=714003691233083403&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+Invite link: [Join the Git Gud Science Discord server](https://discord.gg/8DZmg2g). 
